@@ -1,3 +1,5 @@
+## author:tctxc
+
 magicians = ['tctxc', 'asuka', 'shanjun', 'Lily', 'Jay', 'niniKing']
 great_magicians = []
 
